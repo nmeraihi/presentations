@@ -1,6 +1,6 @@
 # Newton's Law of Cooling Presentation
 
-This folder contains the materials for my presentation fot the UDSD:
+This folder contains the materials for my presentation for the UDSD:
 
 - [Presentation on Newton’s Law of Cooling](https://github.com/nmeraihi/presentations/blob/main/presentations/UDSD/Newthons_Law_Cooling.ipynb)
 - [Analytical Solution to Newton's Cooling Law](https://github.com/nmeraihi/presentations/blob/main/presentations/UDSD/Diff_eq_newton_cool.pdf)
